@@ -1,1 +1,1 @@
-# Teoria-dos-Grafos-Otimiza-o-de-Redes-de-Comunica-o-UECE
+# Teoria-dos-Grafos-UECE
